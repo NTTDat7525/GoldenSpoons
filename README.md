@@ -318,7 +318,7 @@ Dự án sử dụng [Conventional Commits](https://www.conventionalcommits.org/
 
 ## Báo lỗi (Bug Reports)
 
-Nếu bạn phát hiện lỗi, vui lòng [mở một Issue](https://github.com/NTTDat7525/GoldenSpoons/issues) với đầy đủ thông tin:
+Nếu bạn phát hiện lỗi, vui lòng tạo mới 1 Issue trong tab [Issue](https://github.com/NTTDat7525/GoldenSpoons/issues) với đầy đủ thông tin:
 - Mô tả lỗi
 - Các bước tái hiện
 - Kết quả mong đợi vs thực tế
@@ -337,8 +337,12 @@ Dự án được phân phối theo giấy phép **MIT**. Xem file [LICENSE](LIC
 **NTTDat7525**
 
 - GitHub: [@NTTDat7525](https://github.com/NTTDat7525)
-- Website: [tadneit07525.site](https://tadneit07525.site)
 
+**DucIsMee**
+- Github: [@DucIsMee](https:/github.com/DucIsMee)
+
+**Website**
+#### [tadneit07525.site](https://tadneit07525.site)
 ---
 
 <div align="center">
