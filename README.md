@@ -280,23 +280,6 @@ GoldenSpoons/
 └── vite.config.js
 ```
 
----
-
-## Kiểm thử (Testing)
-
-```bash
-# Chạy toàn bộ test suite
-composer run test
-
-# Hoặc chạy trực tiếp
-php artisan test
-
-# Chạy test cụ thể
-php artisan test --filter=BookingTest
-```
-
----
-
 ## Đóng góp (Contributing)
 
 Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Để đóng góp:
