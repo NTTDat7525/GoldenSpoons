@@ -312,7 +312,7 @@ Dự án sử dụng [Conventional Commits](https://www.conventionalcommits.org/
 | `refactor:` | Tái cấu trúc code |
 | `test:` | Thêm/sửa tests |
 
-> Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết *(sẽ cập nhật sau)*
+> Vui lòng đọc [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết
 
 ---
 
