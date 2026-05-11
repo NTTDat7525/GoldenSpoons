@@ -1,11 +1,11 @@
-# 🤝 Hướng dẫn đóng góp — GoldenSpoons
+# Hướng dẫn đóng góp — GoldenSpoons
 
 Cảm ơn bạn đã quan tâm đến dự án **GoldenSpoons** — Website đặt bàn nhà hàng trực tuyến.  
 Tài liệu này hướng dẫn các thành viên trong nhóm cách thiết lập môi trường, quy trình làm việc với Git, tiêu chuẩn code và các quy tắc chung khi cộng tác.
 
 ---
 
-## 📑 Mục lục
+## Mục lục
 
 1. [Thành viên nhóm](#-thành-viên-nhóm)
 2. [Yêu cầu môi trường](#-yêu-cầu-môi-trường)
@@ -21,16 +21,16 @@ Tài liệu này hướng dẫn các thành viên trong nhóm cách thiết lậ
 
 ---
 
-## 👥 Thành viên nhóm
+## Thành viên nhóm
 
 | Họ và tên | MSSV | Vai trò / Phần phụ trách |
 |-----------|------|--------------------------|
-| Nguyễn Thị Tố Đạt | 23810310... | Trưởng nhóm, Backend |
+| Nguyễn Trịnh Tiến Đạt | 23810310148 | Trưởng nhóm, Backend |
 | Bùi Minh Đức | 23810310110 | Frontend |
 
 ---
 
-## 🖥️ Yêu cầu môi trường
+## Yêu cầu môi trường
 
 Trước khi bắt đầu, hãy đảm bảo máy bạn đã cài đặt đầy đủ các công cụ sau:
 
@@ -46,7 +46,7 @@ Trước khi bắt đầu, hãy đảm bảo máy bạn đã cài đặt đầy 
 
 ---
 
-## 🚀 Cài đặt dự án
+## Cài đặt dự án
 
 ### 1. Clone repository
 
@@ -111,7 +111,7 @@ npm run build     # Build production
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 GoldenSpoons/
@@ -138,7 +138,7 @@ GoldenSpoons/
 
 ---
 
-## 🌿 Quy trình Git
+## Quy trình Git
 
 Dự án sử dụng mô hình **Feature Branch Workflow**:
 
@@ -155,12 +155,12 @@ main ← dev ← feature/tên-tính-năng
 | `fix/...` | Sửa lỗi |
 | `docs/...` | Cập nhật tài liệu |
 
-> ⚠️ **Nghiêm cấm push trực tiếp lên nhánh `main` hoặc `dev`.**  
+> **Nghiêm cấm push trực tiếp lên nhánh `main` hoặc `dev`.**  
 > Mọi thay đổi phải thông qua Pull Request và được ít nhất 1 thành viên review.
 
 ---
 
-## 🏷️ Quy tắc đặt tên nhánh
+## Quy tắc đặt tên nhánh
 
 Tên nhánh phải **viết thường**, dùng dấu gạch ngang (`-`), không dấu, không khoảng trắng.
 
@@ -174,7 +174,7 @@ docs/cap-nhat-readme
 
 ---
 
-## 📝 Quy tắc Commit Message
+## Quy tắc Commit Message
 
 Commit message theo định dạng:
 
@@ -213,7 +213,7 @@ refactor: tách logic đặt bàn sang ReservationService
 
 ---
 
-## 🔀 Quy trình tạo Pull Request
+## Quy trình tạo Pull Request
 
 ### Bước 1 — Tạo nhánh mới từ `dev`
 
@@ -258,7 +258,7 @@ Vào repository trên GitHub → **New Pull Request** → chọn:
 
 ---
 
-## 🧹 Tiêu chuẩn viết code
+## Tiêu chuẩn viết code
 
 ### PHP / Laravel
 
@@ -292,7 +292,7 @@ Vào repository trên GitHub → **New Pull Request** → chọn:
 
 ---
 
-## 🐛 Báo lỗi & Đề xuất tính năng
+## Báo lỗi & Đề xuất tính năng
 
 Vui lòng dùng **GitHub Issues** để báo lỗi hoặc đề xuất:
 
