@@ -334,12 +334,69 @@ Nếu bạn phát hiện lỗi, vui lòng tạo mới 1 Issue trong tab [Issue](
 ---
 
 ## Hình ảnh kết quả
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/60913039-ceae-4402-b16f-76629fcf291e" />
 
 ---
 
-## Video demo
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/e2cf0e94-9a24-4801-a1d4-15a0af5634d7" />
 
 ---
+
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/5ea5870e-91c0-43df-8465-3dc7ae0dce91" />
+
+---
+
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/ca85ac92-3af7-44b2-bacc-229ff357f193" />
+
+---
+
+<img width="940" height="542" alt="image" src="https://github.com/user-attachments/assets/26521b1e-137d-468c-961d-795bb98c27a1" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/0677cd0c-1def-41b1-b4ce-97d370bd68a3" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/c9e8b0a4-6df2-4583-a8a5-1b1cf8b9d47a" />
+
+---
+
+<img width="940" height="538" alt="image" src="https://github.com/user-attachments/assets/8b0999f7-81b7-4954-824f-9fa1708eac30" />
+
+---
+
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/1f30b280-0387-4a88-b268-597179b55f7d" />
+
+---
+
+<img width="940" height="533" alt="image" src="https://github.com/user-attachments/assets/668ba54b-0e7f-4d78-931f-b24d53c7e97c" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/9541562f-8313-4787-b9cf-dd2fa5baf32d" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/dd17db5f-b72d-468a-ad60-279b5ac4396e" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/8644e59b-4eb1-4673-90fe-07c0de6ff0d0" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/539fc5f8-cdbc-469d-8527-c4dfb8c5822b" />
+
+---
+
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/cf5b90ce-c96c-4b92-91f9-d443bd0990e2" />
+
+---
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/699e7946-c9bd-4790-bfb0-93f007aebcb2" />
+
+---
+
 
 ## Giấy phép (License)
 
