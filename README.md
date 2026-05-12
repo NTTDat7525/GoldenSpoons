@@ -48,6 +48,13 @@
 
 ---
 
+## Thành viên nhóm
+| Họ và tên | Mã sinh viên | Công việc |
+|-----------|--------------|-----------|
+| Nguyễn Trịnh Tiến Đạt | 23810310148 | Lập trình Backend, thiết kế cơ sở dữ liệu |
+| Bùi Minh Đức | 23810310110 | Lập trình Frontend |
+---
+
 ## Tính năng
 
 ### Khách hàng (Customer)
@@ -326,23 +333,18 @@ Nếu bạn phát hiện lỗi, vui lòng tạo mới 1 Issue trong tab [Issue](
 
 ---
 
+## Hình ảnh kết quả
+
+---
+
+## Video demo
+
+---
+
 ## Giấy phép (License)
 
 Dự án được phân phối theo giấy phép **MIT**. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
----
-
-## Tác giả
-
-**NTTDat7525**
-
-- GitHub: [@NTTDat7525](https://github.com/NTTDat7525)
-
-**DucIsMee**
-- Github: [@DucIsMee](https:/github.com/DucIsMee)
-
-**Website**
-#### [tadneit07525.site](https://tadneit07525.site)
 ---
 
 <div align="center">
