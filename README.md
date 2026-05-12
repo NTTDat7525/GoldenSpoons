@@ -399,7 +399,7 @@ Nếu bạn phát hiện lỗi, vui lòng tạo mới 1 Issue trong tab [Issue](
 
 ## Demo Video
 
-[▶ Xem video demo tại đây](https://drive.google.com/file/d/1CQUgtAqyUhCaCWSRCzg-tcQ0ZQk5jJSo/view?usp=sharing)
+[▶ Xem video demo tại đây](https://drive.google.com/file/d/1E7tyBMrUIuW2h8yrWYFDmw8T5ZqFwXBp/view?usp=sharing)
 
 ---
 
