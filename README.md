@@ -160,6 +160,15 @@ npm run build
 
 # 10. Chạy server phát triển
 php artisan serve
+
+# 11. Tài khoản mẫu
+Customer
+- Tên đăng nhập: customer
+- Mật khẩu: password
+
+Admin
+- Tên đăng nhập: admin
+- Mật khẩu: password
 ```
 
 Truy cập ứng dụng tại: **http://localhost:8000**
